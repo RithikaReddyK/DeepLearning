@@ -1,0 +1,1 @@
+python3 $'MLDS_hw2_1_data/testing_data/feat' $'testset_output.txt'
